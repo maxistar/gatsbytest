@@ -6,7 +6,8 @@ media_folder: content/assets
 public_folder: ../assets
 
 collections:
-  - name: blog
+  - name: github
+    repo: maxistar/gatsbytest
     label: Blog
     folder: content/blog
     create: true
